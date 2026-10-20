@@ -65,7 +65,7 @@ Body:
 
 The project uses the following crates in `Cargo.toml`:
 
-- `reqwest` with the `blocking` feature for synchronous HTTP requests, NOTE: make dure to have the latest version
+- `reqwest` with the `blocking` feature for synchronous HTTP requests - make sure to have the latest version
 - `error-chain` for propagating and handling errors.
 
 ## Limitations
